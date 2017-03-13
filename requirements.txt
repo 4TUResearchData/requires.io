@@ -102,7 +102,7 @@ chardet==2.2.1
 configobj==4.7.2
 ethtool==0.8
 iniparse==0.4
-ipaddr==2.1.9
+ipaddr==2.1.11
 jabber.py==0.3.post1
 javapackages==1.0.0
 Jinja2==2.9.5
