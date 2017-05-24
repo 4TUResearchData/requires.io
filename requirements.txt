@@ -1,5 +1,5 @@
 -e git+https://github.com/WoLpH/pybagit.git@13b853551f86a4ad67f4c4ccc83f94ef0c602751#egg=pybagit
-Django==1.8.17
+Django==1.8.18
 MySQL-python==1.2.5
 Pillow==3.4.2
 PyJWT==1.4.2
