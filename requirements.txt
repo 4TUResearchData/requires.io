@@ -2,7 +2,7 @@
 https://github.com/dracos/django-date-extensions/archive/django-1.11-support.zip
 https://github.com/raphaelmerx/django-selectable/archive/django_111.zip
 django-debug-toolbar==1.8
-Django==1.11.24
+Django==1.11.29
 ipdb
 MySQL-python==1.2.5
 Pillow==3.4.2
