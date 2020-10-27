@@ -18,7 +18,7 @@ certifi==2017.1.23
 cffi==1.9.1
 coloredlogs==5.1.1
 contextlib2==0.5.4
-cryptography==2.5
+cryptography==3.2
 decorator==4.0.10
 django-appconf==1.0.2
 django-cacheops==4.1
