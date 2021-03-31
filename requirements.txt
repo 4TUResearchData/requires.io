@@ -51,7 +51,7 @@ ipython==5.1.0
 isodate==0.5.4
 keepalive==0.5
 kombu==3.0.37
-lxml==4.2.5
+lxml==4.6.3
 names==0.3.0
 oauth2client==3.0.0
 oauthlib==2.0.0
