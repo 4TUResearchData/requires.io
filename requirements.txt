@@ -1,7 +1,7 @@
 -e git+https://github.com/WoLpH/pybagit.git@13b853551f86a4ad67f4c4ccc83f94ef0c602751#egg=pybagit
 https://github.com/dracos/django-date-extensions/archive/django-1.11-support.zip
 https://github.com/raphaelmerx/django-selectable/archive/django_111.zip
-django-debug-toolbar==1.8
+django-debug-toolbar==1.11.1
 Django==1.11.24
 ipdb
 MySQL-python==1.2.5
